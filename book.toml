@@ -5,4 +5,4 @@ src = "src"
 title = "Boekje"
 
 [preprocessor.plantuml]
-plantuml-cmd="https://www.plantuml.com/plantuml"
+plantuml-cmd="http://localhost:8080"
