@@ -2,6 +2,9 @@
 
 Hoi
 
+DIKKE DUIF
+
+
 ```plantuml
 @startuml
 Bert->Ernie: Hoi
