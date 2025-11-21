@@ -4,6 +4,5 @@ language = "en"
 src = "src"
 title = "Boekje"
 
-
 [preprocessor.plantuml]
-plantuml-cmd="http://localhost:8080"
+plantuml-cmd="https://www.plantuml.com/plantuml"
