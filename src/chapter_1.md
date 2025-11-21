@@ -4,6 +4,6 @@ Hoi
 
 ```plantuml
 @startuml
-Bert -> Ernie: Hoi
+Bert->Ernie: Hoi
 @enduml
 ```
