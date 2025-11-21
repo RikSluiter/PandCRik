@@ -6,7 +6,7 @@ DIKKE DUIF
 
 
 ```plantuml
-@startuml
+@startuml henk
 Bert->Ernie: Hoi
 @enduml
 ```
